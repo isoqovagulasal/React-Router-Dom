@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.business_h1 {
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: -2px;
+    color: #232536;
+    text-align: center;
+}
+
+.business_p {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #6D6E76;
+    padding-top: 16px;
+}
+
+.business_h5 {
+    font-family: "Inter";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 32px;
+}
+
+.abaout_business {
+    padding: 80px 162px;
+    background-color: #F4F0F8;
+    margin-bottom: 57px;
+    width: 100%;
+}

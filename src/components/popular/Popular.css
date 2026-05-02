@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.popular_h2 {
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -2px;
+    padding-left: 80px;
+    padding-top: 32px;
+}
+
+.popular_p {
+    font-family: "Inter";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    color: #4C4C4C;
+    padding-top: 32px;
+}
+
+.popular_span {
+    color: #592EA9;
+    font-family: "Inter";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+
+}
+
+.popular_h6 {
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: -1px;
+    padding-top: 16px;
+
+}
+
+.p_popular {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #4C4C4C;
+    padding-top: 16px;
+}
+
+.popular_card {
+    padding-left: 20px;
+    padding-top: 64px;
+    padding-bottom: 135px;
+}
+
+.popular_cards {
+    display: flex;
+    gap: 32px;
+
+}
+
+.project {
+    width: 85%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1324px) {
+    .popular_cards {
+        margin: 0 auto;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+}

@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.catagory_h3 {
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -2px;
+    text-align: center;
+}
+
+.card_h6 {
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: -1px;
+    padding-top: 15px;
+}
+
+.card_p {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #6D6E76;
+    padding-top: 5px;
+}
+
+.card {
+    width: 296px;
+    height: 221px;
+    border: 1px solid #6D6E76;
+    padding-left: 32px;
+    padding-top: 31px;
+    padding-bottom: 31px;
+
+}
+
+.cards {
+    display: flex;
+    gap: 32px;
+    padding: 71px 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1024px) {
+    .cards {
+        max-width: 990px;
+        width: 100%;
+        margin: 0 auto;
+        padding: 50px 0;
+        flex-wrap: wrap;
+        gap: 25px;
+    }
+
+}
