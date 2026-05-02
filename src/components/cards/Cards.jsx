@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 
 import './../cards/Cards.css'
 
-import icon from './../assets/Icon.svg'
+import icon from './../../assets/Icon.svg'
 import raketa from './../../assets/raketa.png'
 import economy from './../../assets/economy (1).svg'
 import business from './../../assets/business-and-trade 1.svg'
