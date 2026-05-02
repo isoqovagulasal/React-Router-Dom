@@ -1,8 +1,8 @@
 import React from 'react'
 import '../blog/Blog.css'
-import blogimg from '../../assets/eyeglasses.png'
-import profile from '../../assets/image (8).svg'
-import Container from '../../shared/Container'
+import blogimg from './../../assets/eyeglasses.png'
+import profile from './../../assets/image (8).svg'
+import Container from './../../shared/Container'
 const Blog = () => {
     return (
         <>
