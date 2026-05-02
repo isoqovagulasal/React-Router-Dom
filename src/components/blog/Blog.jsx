@@ -3,7 +3,7 @@ import React from 'react'
 import './Blog.css'
 
 import blogimg from './../../assets/eyeglasses.png'
-import profile from './../../assets/image (8).svg'
+import profile from './../../assets/avatar.svg'
 
 import Container from './../../shared/Container'
 
